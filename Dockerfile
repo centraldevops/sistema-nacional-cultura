@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL maintainer LabLivre/UFABC team
+#LABEL maintainer LabLivre/UFABC team
 
 ARG RAVEN_DSN_URL
 ARG DEBUG
